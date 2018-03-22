@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "LabyCord",
+  "mainClass": "ch.batthomas.labycord.LabyCord",
+  "description": "Discord Rich Presence for LabyMod",
+  "version": 1,
+  "author": "batthomas",
+  "category": 1,
+  "icon": "https://i.imgur.com/YmbLn9F.png"
+}
